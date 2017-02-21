@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sop>
+    <intro>Virginia Tech Summer and Winter Courses</intro>
+    <sessions>
+        <session>
+            <url>summer.html</url>
+            <sessiontitle>Summer Sessions at </sessiontitle>
+        </session>
+    </sessions>
+</sop>
