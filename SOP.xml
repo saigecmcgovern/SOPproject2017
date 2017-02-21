@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sop>
-    <intro>Virginia Tech Summer and Winter Courses</intro>
-    <sessions>
+    <title>Virginia Tech Summer and Winter Sessions SOP Manual</title>
+    <intro>Welcome to the user manual for summer and winter courses at Virginia Tech. In this manual, you will find information on how to search and sign up for courses, how to apply for financial aid, how to sign up for a mini session or study abroad, and how to pay your tuition for your summer or winter courses.</intro>
+    <part1><heading>Understanding Your Options</heading>
+        <body>While students at Virginia Tech can take courses year-round, it is important to understand that unlike spring and fall sessions, your credit limit for these summer and winter sessions is much lower. In the winter, you may register for up to 6 credit hours, or up to 9 with office approval. In the summer, you may register for up to 18 credits, or up to 9 credits per 6-week session. There are also a few different options for courses and class experiences in the summer and winter sessions at Virginia Tech. 
+            <bullettedlist><item>Online: These courses are done online, on your own time.</item>
+              <item>On-campus: These will be standard, instructor-led courses held on campus.</item>
+              <item>Blended: These are a combination of online and in-person instruction</item>
+                <item> Study Abroad: These are trips through which you will receive instruction and credits, but also get to travel to different places around the world. These course trips vary in length, and will have limited options based on your major or department.</item>
+                <item>Mini Sessions: These courses run for 14 days during the summer and are a great way to get a head start or catch up on prerequisites. They are offered on campus, online, and abroad, however the options for courses are very limited.</item>
+            </bullettedlist></body></part1>
+    <part2><heading>How to Find and Search Courses</heading>
+    <body></body></part2>
         <session>
             <url>summer.html</url>
             <sessiontitle>Summer Sessions at </sessiontitle>
         </session>
-    </sessions>
 </sop>
